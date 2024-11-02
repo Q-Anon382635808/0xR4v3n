@@ -2,6 +2,10 @@
 
 Personal Site
 
+[![HTML](https://img.shields.io/badge/HTML-52.4%25-orange)](https://github.com/Q-Anon382635808/0xR4v3n)
+[![CSS](https://img.shields.io/badge/CSS-40.2%25-blue)](https://github.com/Q-Anon382635808/0xR4v3n)
+[![JavaScript](https://img.shields.io/badge/JavaScript-7.4%25-yellow)](https://github.com/Q-Anon382635808/0xR4v3n)
+
 ## Description
 
 This repository contains the source code for my personal website. The site is built primarily using HTML, CSS, and JavaScript.
@@ -18,14 +22,18 @@ This repository contains the source code for my personal website. The site is bu
 - Modern CSS styling for a visually appealing layout.
 - Interactive elements powered by JavaScript.
 
-## How to Access
+## Code Snippets
 
-The website is hosted using GitHub Pages and can be accessed at [your GitHub Pages URL](https://Q-Anon382635808.github.io/0xR4v3n).
-
-## Contributing
-
-If you wish to contribute to this project, feel free to create a pull request or open an issue with your suggestions or bug reports.
-
-## License
-
-This project is licensed under the MIT License.
+### HTML
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>0xR4v3n</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+</body>
+</html>
+```
